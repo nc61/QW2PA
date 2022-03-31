@@ -1,0 +1,11 @@
+Pump wv (nm):	
+Probe wv (nm):	
+P in (mW):	
+P start(uW):	
+P end(uW):	
+Pump in: 	
+Probe in: 	
+Pump out: 	
+Probe out:	
+
+delay (fs)	Transmission
